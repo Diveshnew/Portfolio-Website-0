@@ -47,6 +47,6 @@ Feel free to customize this template to make it your own! Here's how you can do 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: workwithdivesh@email.com
-- Portfolio: [Portfolio-Website-0](https://www.yourportfolio.com)
+- Portfolio: [Portfolio-Website-0](https://diveshnew.github.io/Portfolio-Website-0/)
 - LinkedIn: [Divesh Dhek](https://www.linkedin.com/in/diveshdhek1/)
 
