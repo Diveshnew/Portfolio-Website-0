@@ -9,7 +9,6 @@ Welcome to my Personal Portfolio Website repository! This repository contains th
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -48,6 +47,6 @@ Feel free to customize this template to make it your own! Here's how you can do 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: workwithdivesh@email.com
-- Portfolio: [yourportfolio.com](https://www.yourportfolio.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/diveshdhek1/)
+- Portfolio: [Portfolio-Website-0](https://www.yourportfolio.com)
+- LinkedIn: [Divesh Dhek](https://www.linkedin.com/in/diveshdhek1/)
 
